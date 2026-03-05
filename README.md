@@ -1,7 +1,9 @@
-<div align="center">
-  <b>🔥 全网最全加密货币资源库,币圈导航站：<a href="https://www.0xnav.com" target="_blank">www.0xnav.com</a> 🔥</b></br>
-  <b>🔥 加密货币电报交流群：<a href="https://t.me/jmhbgroup" target="_blank">https://t.me/jmhbgroup</a> 🔥</b>
+<div align="center" >
+   <b>🔥 全网最全加密货币资源库,比特币入门指南🔥</b></br>
+   <b>🔥 5分钟了解比特币是什么加密货币区块链等概念 🔥</b>
 </div>
+<span style="font-size:30px; color:red;">我是超大红色字</span>
+
 &nbsp;
 
 # 前言
