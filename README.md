@@ -1,10 +1,8 @@
-<div align="center" >
-   <b>🔥 比特币入门指南,全网最全加密货币资源库🔥</b></br>
-   <b>🔥 加密货币资源大全｜区块链与币圈一站式学习工具平台 🔥</b>
-</div>
+<h3 align="center">⭐加密货币入门指南,全网最全虚拟币资源库⭐</h3>
+<h3 align="center">⭐比特币区块链学习资料，币圈最新最快资讯⭐</h3>
 
 
-# 前言
+## 📖前言
 - 欢迎访问全网全面、专业、实时更新的区块链与加密货币资源平台，本站专为币圈新手、投资者及 Web3 爱好者打造，提供一站式信息整合与实用工具导航服务，助力用户快速入门加密资产世界，轻松掌握行业核心知识与操作技能。</br>
 
 - 本站汇集主流中心化交易所官方注册链接与正版官网入口，包括币安 Binance、欧易 OKX、预测市场 polymarket、芝麻开门 Gate 等知名交易平台，并提供详细的注册流程、使用教程与安全操作指南，帮助用户安全便捷地使用主流交易服务。</br>
@@ -15,17 +13,20 @@
 
 - 关注本站，从零开始系统学习加密资产投资，深入探索 Web3 生态，开启属于你的加密世界探索之旅。 
 
-# **快捷导航：** 
+&nbsp;
+&nbsp;
 
-[科学上网工具](#科学上网工具) | [监听聪明钱包](#监听聪明钱包) | [AI交易系统](#AI交易系统) | [交易所](#交易所) | [空投](#空投) | [Web3](#Web3) | [交易](#交易) | [数据工具](#数据工具) | [巨鲸追踪](#巨鲸追踪) | [NFT](#nft) | [元宇宙](#元宇宙) | [钱包](#钱包) | [新闻媒体](#新闻媒体) | [空投](#空投) | [DAO](#dao) | [基础工具](#基础工具) | [跨链工具](#跨链工具) | [币圈名人](#币圈名人) | [IDO/IEO](#idoieo) | [DAO组织](#dao组织) | [出入金](#出入金) | [社交媒体](#社交媒体) | [电报群](#电报群)
-
-## 科学上网工具
+## 📖科学上网工具
 
 - [vpnnav.github.io](https://vpnnav.github.io)
 
-请注意，以上工具仅供学习使用若利用这些工具从事违法犯罪行为，我们概不承担任何法律责任
+- 请注意，以上工具仅供学习使用若利用这些工具从事违法犯罪行为，我们概不承担任何法律责任
 
-## 加密货币交易所
+
+&nbsp;
+&nbsp;
+
+## 📖加密货币交易所
 | [<img src="./img/binance.jpg" width="90" height="90" ><br>币安](https://accounts.binance.com/zh-CN/register?ref=FANXIAN) | [<img src="./img/okx.jpg" width="90" height="90" ><br>欧意OKX](https://www.okx.com/zh-hans/join/50253981) |  [<img src="./img/bitget.jpg" width="90" height="90" ><br>bitget](https://www.bitget.com/zh-CN/referral/register?clacCode=QR4A7MPY) |[<img src="./img/bybit.jpg" width="90" height="90" ><br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) | [<img src="./img/htx.jpg" width="90" height="90" ><br>火币](https://www.htx.com.am/invite/zh-cn/1f?invite_code=xpi6a223) |
 |:---:|:---:|:---:|:---:|:---:|
 | [<img src="./img/CoinBase.jpg" width="90" height="90" ><br>CoinBase](https://www.coinbase.com/) | [<img src="./img/kraken.jpg" width="90" height="90" ><br>kraken海妖](https://www.kraken.com/) | [<img src="./img/kucoin.jpg" width="90" height="90" ><br>KuCoin](https://www.kucoin.com) | [<img src="./img/mexc.jpg" width="90" height="90" ><br>抹茶MEXC](https://promote.mexc.com/r/wIE7fPvG) | [<img src="./img/gate.jpg" width="90" height="90" ><br>Gate.io](https://www.gatenode.xyz/share/USDTOKOK) |
@@ -33,7 +34,7 @@
 &nbsp;
 &nbsp;
 
-**❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
+## 💰一定要使用邀请码注册，否则无法减免手续费💰
 
 
 | 交易所 | 官方链接 | 描述 |
@@ -46,15 +47,10 @@
 | 火币 | [https://www.htx.com](https://www.htx.com) | 使用邀请码注册：0000 、减免30%手续费 |
 | 抹茶 | [https://www.mexc.co](https://promote.mexc.com) | 使用邀请码注册：0000 、减免40%手续费 |
 
-![](https://imgur.com/MlRDjeU.png)
-
-![](https://imgur.com/H21EIP4.png)
-
-<img src="./img/CoinBase.jpg"  >
 
 
 
-## 监听聪明钱包
+## 📖市场聪明钱监控
 
 - [@Debot](https://debot.ai?ref=240523)
 
