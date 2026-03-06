@@ -47,6 +47,12 @@
 | 火币 | [https://www.htx.com](https://www.htx.com) | 使用邀请码注册：0000 、减免30%手续费 |
 | 抹茶 | [https://www.mexc.co](https://promote.mexc.com) | 使用邀请码注册：0000 、减免40%手续费 |
 
+### 常见问题
+- [Binance币安交易所注册教程](./docs/Binance币安交易所注册教程.md) - 详细的币安交易所注册流程指南，包含注册步骤、邀请码使用、手续费减免等完整教程  
+- [币安身份验证KYC完整指南：常见问题及解决方案](./docs/币安身份验证完整指南：常见问题及解决方案.md) - 币安KYC身份验证详细教程，涵盖常见问题及解决方案，帮助用户顺利完成身份认证  
+- [低资费境外手机卡推荐](./docs/低资费境外手机卡推荐.md) - 推荐常见的各类低资费境外手机卡，各种卡月租情况，综合分析最合适自己的境外手机卡  
+- [什么是U卡](./docs/什么是U卡.md) - 系统讲清楚 U 卡的概念、原理、类型、用途与风险，适合所有数字货币从业者/爱好者阅读  
+- [币圈入门生存指南](./docs/币圈入门生存指南.md) - 币圈不是暴富捷径，而是高风险高波动的金融丛林**持续学习 + 安全意识 + 情绪控制** 是你在这片“暗黑森林”里活下去的底层逻辑
 
 &nbsp;
 &nbsp;
@@ -60,48 +66,7 @@
 - [@gmgn.ai](https://gmgn.ai)   专注市场火爆MEME的跟踪交易辅助平台，更有复制交易和风险提示等功能
 
 
-&nbsp;
-&nbsp;
-## 📖AI交易系统
 
-- [@nof1-tracker](https://github.com/terryso/nof1-tracker)
-
-一个用于跟踪 nof1.ai AI Agent 交易信号并自动执行 Binance 合约交易的命令行工具。支持7个AI量化Agent的实时跟单，自动识别开仓、平仓、换仓和止盈止损信号。
-
-- [nofx](https://github.com/tinkle-community/nofx)
-
-一个基于 DeepSeek/Qwen AI 的加密货币期货自动交易系统，支持 Binance、Hyperliquid和Aster DEX交易所，多AI模型实盘竞赛，具备完整的市场分析、AI决策、自我学习机制和专业的Web监控界面。
-
-- [@AI-Trader](https://github.com/HKUDS/AI-Trader)
-
-这个开源项目是一个“使用 AI 代理模型在纳斯达克‑100 市场进行真实或模拟交易，并对比不同模型表现”的量化交易平台。
-
-&nbsp;
-&nbsp;
-## 空投
-
-### 币安Alpha
-
-币安Binance交易所推出来的活动，只要刷满指定的交易量，就会获得对应的积分，拥有积分之后那么就可以用来抢空投，基本每个币安账号一个月都能挣几千块左右，当然号越多赚越多，这也就是为什么有很多工作室在刷这个的原因
-
-活动介绍：https://www.0xnav.com/260.html
-
-### 币安Alpha查询网站
-- [币安Alpha空投日历](https://alpha123.uk/zh/index.html) - 实时监控币安Alpha项目空投
-- [Alpha稳定度查询](https://alpha123.uk/zh/stability/) - 结合稳定度面板还有K线来刷交易量，减少被夹的风险
-- [AlphaHub](https://bnalphahub.com/) - 免费多钱包币安alpha交易积分查询工具
-- [胖大星-空投查询](https://pangdaxing.xyz/) - 实时监控币安Alpha项目空投
-- [Alpha Bot](https://new.alphabot.cm/) - Alpha交易量钱包查询
-- [Alpha.DOG](https://alpha.dog/) - Alpha交易量钱包查询
-- [BSC USDT 统计分析工具](https://sincitysh.github.io/bscalpha/usdt-analyzer.html) - BSC USDT 统计分析工具
-
-
-### 常见问题
-- [Binance币安交易所注册教程](./docs/Binance币安交易所注册教程.md) - 详细的币安交易所注册流程指南，包含注册步骤、邀请码使用、手续费减免等完整教程  
-- [币安身份验证KYC完整指南：常见问题及解决方案](./docs/币安身份验证完整指南：常见问题及解决方案.md) - 币安KYC身份验证详细教程，涵盖常见问题及解决方案，帮助用户顺利完成身份认证  
-- [低资费境外手机卡推荐](./docs/低资费境外手机卡推荐.md) - 推荐常见的各类低资费境外手机卡，各种卡月租情况，综合分析最合适自己的境外手机卡  
-- [什么是U卡](./docs/什么是U卡.md) - 系统讲清楚 U 卡的概念、原理、类型、用途与风险，适合所有数字货币从业者/爱好者阅读  
-- [币圈入门生存指南](./docs/币圈入门生存指南.md) - 币圈不是暴富捷径，而是高风险高波动的金融丛林**持续学习 + 安全意识 + 情绪控制** 是你在这片“暗黑森林”里活下去的底层逻辑  
 
 ## Web3
 
