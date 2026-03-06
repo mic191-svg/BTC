@@ -48,23 +48,21 @@
 | 抹茶 | [https://www.mexc.co](https://promote.mexc.com) | 使用邀请码注册：0000 、减免40%手续费 |
 
 
-
-
+&nbsp;
+&nbsp;
 ## 📖市场聪明钱监控
 
-- [@Debot](https://debot.ai?ref=240523)
+- [@hyperbot](https://hyperbot.network/)   由AI驱动的链上永续合约交易平台：数据分析、巨鲸追踪、智能跟单、策略交易
 
-实时自动检测各个聪明人钱包的买入和卖出情况，跟着大佬们吃肉 
 
-- [@gmgn.ai](https://gmgn.ai/r/L2wVVjGF)
+- [@Debot](https://debot.ai)   可以实时跟踪聪明钱包的交易下单情况，跟紧聪明人做交易
 
-注于 meme 币追踪与交易辅助 的平台，通过“聪明资金”监控、链上数据分析、复制交易和风险提示等功能帮助用户发掘潜力币种。
+- [@gmgn.ai](https://gmgn.ai)   专注市场火爆MEME的跟踪交易辅助平台，更有复制交易和风险提示等功能
 
-- [@hyperbot.network](https://hyperbot.network?ic=0xf6E03ed6740fBCF3255F07FD1758824D1eA32a15)
 
-一个由 AI 驱动的链上合约交易平台，聚合多个永续 DEX 的数据与执行，提供“鲸鱼追踪＋一键跟单”功能。
-
-## AI交易系统
+&nbsp;
+&nbsp;
+## 📖AI交易系统
 
 - [@nof1-tracker](https://github.com/terryso/nof1-tracker)
 
@@ -78,6 +76,8 @@
 
 这个开源项目是一个“使用 AI 代理模型在纳斯达克‑100 市场进行真实或模拟交易，并对比不同模型表现”的量化交易平台。
 
+&nbsp;
+&nbsp;
 ## 空投
 
 ### 币安Alpha
